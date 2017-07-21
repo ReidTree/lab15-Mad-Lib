@@ -94,8 +94,7 @@ span {
   font-size: 1S .75em;
 }
 span.libby.ng-binding {
-    text-decoration: underline;
-    font-family: 'Bungee Shade', cursive;
+    font-family: 'Bad Script', cursive
 }
 
 @media only screen and (min-width: 762px) {
